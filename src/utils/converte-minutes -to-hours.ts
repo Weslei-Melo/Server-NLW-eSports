@@ -1,6 +1,6 @@
 //convert  600 para 10:00 
 
-export function covertMinutesToHours (minutes: number){
+export function convertMinutesToHourString (minutes: number){
     
 
     const hours = Math.floor(minutes/60);
